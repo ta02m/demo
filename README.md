@@ -1,2 +1,2 @@
 # demo
-this is fst repositort
+this is fst repository
